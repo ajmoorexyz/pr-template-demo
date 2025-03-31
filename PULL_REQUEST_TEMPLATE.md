@@ -1,33 +1,33 @@
-## Description
+### Description
 
-<!--- Describe your changes in detail -->
+<!--- Please provide the reviewer with context about what you're trying to accomplish -->
 
-## Motivation and Context
+### Rollback Plan
 
-<!--- Please context that might be useful to the reviewer -->
+<!--- What is the process to rollback your changes? -->
 
-## How Has This Been Tested?
+### How Has This Been Tested?
 
 <!--- Please describe briefly how you tested your changes -->
 
-## Screenshots (if appropriate):
+### Screenshots (Optional):
 
-<!--- Super helpful to covey how/what you tested -->
+<!--- Super helpful to convey how/what you tested -->
 
-# Checklist:
+### Checklist:
 
 <!--- Checking all boxes signals that your change is RFR -->
-<!--- Mark items that don't apply with n/a --->
+<!--- Comment out boxes that do not apply --->
 <!--- If changes are requested the process starts over --->
+<!-- ALL BOXES ARE REQUIRED -->
 
 - [ ] 🤓 I have performed a self-review of my code
 - [ ] ✏️ I have commented my code, particularly in hard-to-understand areas
 - [ ] 📘 I have made corresponding changes to the documentation
 - [ ] 🏕️ I have left the code cleaner than I found it
-- [ ] 🤖 I have run pre-commit hooks
 - [ ] ✅ I have tested my changes, and they work as expected
 
-## How does this make you feel?
+### How does this make you feel (Optional)?
 
 <!--- 1. Go to https://giphy.com/ -->
 <!--- 2. Search for a GIF that captures how this change make you feel --->
